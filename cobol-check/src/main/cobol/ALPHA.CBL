@@ -23,5 +23,6 @@
                    15  ws-thing-4   pic x(5).
            05  ws-display-numeric   pic 999.
        PROCEDURE DIVISION.
+           DISPLAY 'ALTEREI ALPHA'
            GOBACK.
       
