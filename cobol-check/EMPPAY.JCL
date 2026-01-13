@@ -1,5 +1,8 @@
 //EMPPAYJ  JOB 1,NOTIFY=&SYSUID
-//***************************************************/
+//*******************************************************/
+//* Copyright Contributors to the COBOL Programming Course
+//* SPDX-License-Identifier: CC-BY-4.0
+//*******************************************************/
 //COBRUN  EXEC IGYWCL
 //COBOL.SYSIN  DD DSN=&SYSUID..CBL(EMPPAY),DISP=SHR
 //LKED.SYSLMOD DD DSN=&SYSUID..LOAD(EMPPAY),DISP=SHR
